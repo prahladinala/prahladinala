@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://prahladinala.com/projects.html](https://prahladinala.com/projects.html)
+- 👨‍💻 All of my projects are available at [https://prahladinala.com/projects](https://prahladinala.com/projects)
 
 - 📝 I regularly write articles on [https://blog.prahladinala.com/](https://blog.prahladinala.com/)
 
-- 📫 How to reach me **prahladjngp@gmail.com**
+- 📫 How to reach me **info@prahladinala.com**
 
 - 📄 Know about my experiences [https://prahladinala.com/profile/](https://prahladinala.com/profile/)
 
