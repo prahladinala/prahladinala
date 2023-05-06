@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://prahladinala.com/projects](https://prahladinala.com/projects)
+- 👨‍💻 All of my projects are available at [https://prahladinala.in/projects](https://prahladinala.in/projects)
 
-- 📝 I regularly write articles on [https://blog.prahladinala.com/](https://blog.prahladinala.com/)
+- 📝 I regularly write articles on [https://blogs.prahladinala.in/](https://blogs.prahladinala.in/)
 
-- 📫 How to reach me **info@prahladinala.com**
+- 📫 How to reach me **hello@prahladinala.in**
 
-- 📄 Know about my experiences [https://prahladinala.com/profile/](https://prahladinala.com/profile/)
+- 📄 Know about my experiences [https://prahladinala.in/profile/](https://prahladinala.in/profile/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 <a href="https://instagram.com/prahladinala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahladinala" height="30" width="40" /></a>
 <a href="https://dribbble.com/prahladinala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prahladinala" height="30" width="40" /></a>
 <a href="https://www.behance.net/prahladinala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prahladinala" height="30" width="40" /></a>
-<a href="/https://blog.prahladinala.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.prahladinala.com/rss.xml" height="30" width="40" /></a>
+<a href="/https://blogs.prahladinala.in/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blogs.prahladinala.in/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
