@@ -1,95 +1,133 @@
-<h1 align="center">Hi 👋, I'm Prahlad Inala</h1>
-<h3 align="center">Senior Associate & Full-Stack Web Developer | React, Next.js & Guidewire Jutro Specialist</h3>
-
+<!-- Waving Banner Header -->
 <p align="center">
-  <a href="https://prahladinala.in">🌐 Portfolio</a> • 
-  <a href="https://blogs.prahladinala.in">📝 Digital Garden & Blog</a> • 
-  <a href="https://prahladinala.in/resume">📄 Resume</a> • 
-  <a href="mailto:hello@prahladinala.in">📫 Email Me</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d2ff&height=200&section=header&text=Prahlad%20Inala&fontSize=50&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+</p>
+
+<!-- Animated Typing Subtitle -->
+<p align="center">
+  <a href="https://prahladinala.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Senior+Associate+%40+PwC;Full-Stack+Web+%26+Mobile+Developer;React+%7C+Next.js+%7C+TypeScript+Specialist;Guidewire+Jutro+Digital+Portal+Expert" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Quick Action Badges -->
+<p align="center">
+  <a href="https://prahladinala.in"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://blogs.prahladinala.in"><img src="https://img.shields.io/badge/Digital_Garden-FF5722?style=for-the-badge&logo=ghost&logoColor=white" alt="Digital Garden Blog" /></a>
+  <a href="https://prahladinala.in/resume"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:hello@prahladinala.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- Profile Views & Trophies -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prahladinala&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prahladinala&label=Profile%20views&color=0e75b6&style=flat" alt="prahladinala profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prahladinala&theme=flat&column=7" alt="prahladinala trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prahladinala&theme=flat&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 **Senior Associate at PwC** specializing in enterprise **Guidewire Digital Portals**, **React JS**, & **Jutro Design System**.
-- 🚀 Passionate about building modern web applications with **React**, **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **Node.js**.
-- 👨‍💻 Check out all of my projects on my portfolio: [prahladinala.in/projects](https://prahladinala.in/projects)
-- 📝 I regularly share developer guides & technical notes at [blogs.prahladinala.in](https://blogs.prahladinala.in/)
-- 📄 Explore my experience & print-ready resume at [prahladinala.in/resume](https://prahladinala.in/resume)
-- 📫 Reach me directly at **hello@prahladinala.in**
+```javascript
+const prahlad = {
+  role: "Senior Associate @ PwC",
+  location: "Hyderabad, India 🇮🇳",
+  specialization: ["Guidewire Jutro", "React JS", "Next.js App Router", "TypeScript"],
+  currentlyLearning: "React 19 & Next.js Turbopack Architectures",
+  digitalGarden: "https://blogs.prahladinala.in",
+  portfolio: "https://prahladinala.in",
+  contact: "hello@prahladinala.in"
+};
+```
+
+- 💼 **Senior Associate at PwC** — Leading end-to-end development of enterprise **Guidewire Digital Portals** using **React JS** and **Jutro Design System**.
+- 🚀 **Full-Stack Enthusiast** — Crafting high-performance web and mobile apps with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Node.js**.
+- 📝 **Digital Garden Creator** — Regularly writing in-depth tech guides and engineering notes on my digital garden.
+- ⚡ **Performance Optimization** — Specialized in web accessibility (WCAG), metadata-driven architectures, and API rendering speedups.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/prahladinala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prahladinala linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/prahladinala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prahladinala twitter" height="30" width="40" /></a>
-  <a href="https://fb.com/prahladinala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prahladinala facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/prahladinala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahladinala instagram" height="30" width="40" /></a>
-  <a href="https://dribbble.com/prahladinala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prahladinala dribbble" height="30" width="40" /></a>
-  <a href="https://www.behance.net/prahladinala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prahladinala behance" height="30" width="40" /></a>
-  <a href="https://blogs.prahladinala.in/rss.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="prahladinala rss" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prahladinala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/prahladinala" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://blogs.prahladinala.in/rss.xml" target="_blank"><img src="https://img.shields.io/badge/RSS_Feed-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" /></a>
+  <a href="https://fb.com/prahladinala" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/prahladinala" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dribbble.com/prahladinala" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  <a href="https://www.behance.net/prahladinala" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Skills (From Portfolio)
 
+#### 🎨 Frontend & UI
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,redux&perline=9&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,graphql,mongodb,postgres,redis,firebase&perline=8&theme=dark" alt="Backend & Databases" />
+  </a>
+</p>
+
+#### 🛠️ Developer Tools & Workflow
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,webpack,vite,jest,postman,figma&perline=8&theme=dark" alt="Developer Tools" />
+  </a>
+</p>
+
+#### 🏛️ Domain & Enterprise Niche Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Guidewire-Jutro%20Design%20System-0E75B6?style=flat-square&logo=react" alt="Guidewire Jutro" />
+  <img src="https://img.shields.io/badge/Guidewire-EDGE%20APIs-00599C?style=flat-square" alt="EDGE APIs" />
+  <img src="https://img.shields.io/badge/Enterprise-Digital%20Portals-2E7D32?style=flat-square" alt="Digital Portals" />
+  <img src="https://img.shields.io/badge/Accessibility-WCAG%20Compliance-6A1B9A?style=flat-square" alt="WCAG" />
+  <img src="https://img.shields.io/badge/Performance-Optimization-D84315?style=flat-square" alt="Performance Optimization" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prahladinala&show_icons=true&locale=en&theme=tokyonight" alt="prahladinala stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prahladinala&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Prahlad's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prahladinala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prahladinala top languages" />
-</p>
+<br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahladinala&theme=tokyonight" alt="prahladinala streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prahladinala&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahladinala&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### ☕ Support
+### 🐍 GitHub Contribution Snake Animation
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/prahladinala">
+  <img src="https://raw.githubusercontent.com/prahladinala/prahladinala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/prahladinala" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
