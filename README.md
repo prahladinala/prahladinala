@@ -13,9 +13,9 @@
 <!-- Quick Action Badges -->
 <p align="center">
   <a href="https://prahladinala.in"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://blogs.prahladinala.in"><img src="https://img.shields.io/badge/Digital_Garden-FF5722?style=for-the-badge&logo=ghost&logoColor=white" alt="Digital Garden Blog" /></a>
+  <a href="https://blogs.prahladinala.in"><img src="https://img.shields.io/badge/Digital_Notes-FF5722?style=for-the-badge&logo=ghost&logoColor=white" alt="Digital Notes" /></a>
   <a href="https://prahladinala.in/resume"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:hello@prahladinala.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:prahladjngp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!-- Profile Views & Trophies -->
